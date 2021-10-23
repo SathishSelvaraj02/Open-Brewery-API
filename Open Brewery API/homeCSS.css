@@ -1,0 +1,11 @@
+body{
+  margin: 50px;
+  background-image:linear-gradient(to right top, #979ca2, #7db4c5, #57cec7, #73e3a2, #c4ed68);
+  @media(min-width: 100px;)
+}
+.about{
+  font-size: 20px;
+}
+.main{
+  image-radius:20px;
+}
